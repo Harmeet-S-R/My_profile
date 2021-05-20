@@ -1,0 +1,60 @@
+body{
+  text-align: center;
+  font-family: Papyrus, fantasy ;
+}
+h1{
+  font-family:,cursive;
+}
+.abc{
+  background-color: white;
+  border-style: none;
+  border-width: 8px;
+  border-color: grey;
+  border-top-style: dotted;
+  width: 8%;
+
+}
+.contact{
+  background-color: #b6c9f0;
+}
+
+.top{
+  background-color: #E4F9F5;
+}
+.img1{
+  padding-left: 600px;
+}
+.img2{
+  padding-right: 600px;
+
+}
+.top-container{
+  background-color: #E4F9F5;
+}
+.introduction{
+  background-color: #ffffc7;
+}
+.Interests{
+  background-color: #cee6b4;
+}
+.Achievements{
+  background-color: #ffffc7;
+}
+a:link, a:visited
+{
+  background-color: darkslategrey;
+  color: black;
+  border: 2px solid darkslategrey;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+a:hover, a:active
+{
+  background-color: green;
+  color: white;
+}
+img.circular--square{
+  border-radius: 50%;
+}
